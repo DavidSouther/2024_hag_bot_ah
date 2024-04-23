@@ -7,25 +7,33 @@ debug:
   model: anthropic.claude-3-sonnet-20240229-v1:0
   usage: null
 isolated: false
-prompt: What are the four questions in a Seder haggadah?
+prompt: |
+  Write the Ma Nishtana. Include each question in order, and then provide an interpretation for these answers.
+
+  Why is this night different from all the other nights?;
+
+  That on all other nights we eat both chametz and matzah, on this night, we eat only matzah?
+  That on all other nights we eat many vegetables, on this night, maror?
+  That on all other nights we do not dip vegetables even once, on this night, we dip twice?
+  That on all other nights some eat and drink sitting with others reclining, but on this night, we are all reclining?
 ---
 
 # Ma Nishtana
 
-1. Why is this night different from all other nights? On all other nights we eat leavened bread and matzah, but on this night, only matzah.
+Why is this night different from all other nights?
 
-Our interpretation: This question reminds us to be mindful and present in the moment. While routine can be comforting, we should also embrace opportunities to break from the ordinary and experience something new and meaningful.
+1. That on all other nights we eat both chametz and matzah, on this night, we eat only matzah?
 
-2. Why is this night different from all other nights? On all other nights we eat many vegetables, but on this night, bitter herbs.  
+We eat only matzah on this night to commemorate the haste with which our ancestors fled Egypt. They had no time to let their bread rise, so they took only unleavened dough which baked into matzah in the desert sun.
 
-Our interpretation: The bitter herbs represent the bitterness and hardship our ancestors endured. We acknowledge their suffering, but also celebrate their resilience and perseverance in the face of adversity.
+2. That on all other nights we eat many vegetables, on this night, maror?
 
-3. Why is this night different from all other nights? On all other nights we do not dip even once, but on this night we dip twice.
+We eat the bitter herbs on this night as a reminder of the bitterness of slavery our ancestors endured in Egypt. The maror represents the harsh labor and suffering they experienced under Pharaoh's rule. We acknowledge their suffering, but also celebrate their resilience and perseverance in the face of adversity.
 
-Our interpretation: The double dipping reminds us to look at things from multiple perspectives. There are often layers to any situation, and we should strive to understand the nuances and complexities.
+3. That on all other nights we do not dip vegetables even once, on this night, we dip twice?
 
-4. Why is this night different from all other nights? On all other nights we eat either sitting or reclining, but on this night we recline.
+We dip twice on this night - first into salt water representing the tears shed under oppression, and then into charoset, a sweet paste of fruits and nuts, recalling the mortar used for the bricks of slavery, but also hinting at the sweetness of eventual freedom.
 
-Our interpretation: Reclining represents freedom and dignity. We should appreciate the liberties we have, while also recognizing the ongoing struggle for equality and human rights around the world.
+4. That on all other nights some eat and drink sitting with others reclining, but on this night, we are all reclining?
 
-Overall, the four questions encourage us to be present, resilient, open-minded, and conscious of the human condition - values that resonate with our progressive secular Jewish identity in Brooklyn.
+We recline at the seder table as a symbol of freedom, reenacting how free people relaxed at ancient times while eating. Our ancestors in Egypt did not experience such luxuries under the harsh taskmasters. We should appreciate the liberties we have, while also recognizing the ongoing struggle for equality and human rights around the world.

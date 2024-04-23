@@ -12,12 +12,12 @@ prompt: Write the reading for the section tzafun.
 
 # Tzafun
 
-We now eat the afikoman, the piece of matzah that was hidden earlier during the seder. By finding and consuming this final piece of matzah, we bring the primary ritual of the seder meal to a close.
+We now come to the final food of our Seder feast - the afikoman, the piece of matzah that was hidden away earlier.
 
-The afikoman represents the mystery and uncertainty that has followed our ancestors through the ages. Just as this piece of matzah was once hidden from view, so too were the true histories and struggles of our forebears often obscured by repression, persecution, and mythmaking.
+The afikoman reminds us that even in our darkest hours, there was always a hidden spark of hope, an undying flame of freedom that could never be extinguished. Our ancestors carried that flame through the darkness of slavery in Egypt, through the deserts of the diaspora, through centuries of persecution. And we carry it still today.
 
-In eating the afikoman tonight, we honor the journeys of those who came before us - the journeys that were so often forced upon them rather than chosen freely. We acknowledge the difficulties they endured and the sacrifices they made so that we could be here today.
+As we partake of this symbolic morsel, let us honor the resilience and unbreakable spirit of our people across the generations. Though the road was long and winding, the path obscured at times, that flame burned on to light our way to the redemption we now celebrate tonight. Its brightness shines within each of us - a beacon reminding us to never lose hope, even when the way forward seems hidden from view.
 
 At the same time, the afikoman is a reminder that there is still much about our collective past that remains cloaked or has been lost to history. The gaps in our understanding should humble us and spur us to keep investigating, questioning, and learning.
 
-Only by probing the truths that have been hidden can we fully appreciate the lives and legacies of our ancestors. So let us eat the afikoman, and commit ourselves anew to unearthing the forgotten stories that make us who we are.
+For as long as we nurture that inner spark of courage, determination and faith in a better tomorrow, its radiance will continue to illuminate our people's journey toward greater freedom, dignity and peace for all humanity.

@@ -12,9 +12,9 @@ prompt: Write the reading for the section karpas.
 
 # Karpas
 
-Tonight we dip this parsley sprig into salt water, not as a symbol of tears shed by our enslaved ancestors, but as a representation of the tears shed by all who have suffered oppression and injustice throughout human history.
+We now partake of the karpas, a green vegetable representing the arrival of spring after a long winter. Just as the earth renews itself this time of year with sprouting plants and blooming flowers, we too can find renewal in our lives.
 
-The salt water stings our eyes, just as oppression and subjugation have stung the eyes and hearts of the downtrodden. But this simple act of dipping renews our commitment to fighting against such cruelties.
+Spring is a season of rebirth, growth, and wonderful awakenings in nature. Let us be inspired by the resiliency of the natural world which returns year after year from dormancy to vibrancy. We dip the karpas in salt water, a reminder of the tears shed throughout human struggles, but also of the sustaining waters that allow for new life to emerge.
 
 As we taste the brine on our lips, we are reminded of the countless struggles against tyranny in all lands and in all ages. We honor those who stood up for liberty, equality, and human rights in the face of overwhelming adversity.
 

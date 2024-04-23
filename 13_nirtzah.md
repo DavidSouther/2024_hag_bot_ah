@@ -12,8 +12,10 @@ prompt: Write the reading for the section nirtzah.
 
 # Nirtzah
 
-We have retold the story of the Exodus once again this year. We have recounted how our ancestors went from being an enslaved and oppressed people to achieving their freedom. This narrative inspires us to continually fight for liberation - for ourselves, for our communities, and for all who are subjected to injustice and tyranny in this world.
+We have retold the story of the Exodus once again this year. We have recounted how our ancestors went from being an enslaved and oppressed people to achieving their freedom. This tradition inspires us to continually fight for liberation - for ourselves, for our communities, and for all who are subjected to injustice and tyranny in this world.
 
-As we conclude the seder, we rededicate ourselves to the perpetual struggle for freedom, human rights, and dignity for all people. We will work to dismantle the systems and ideologies that breed oppression, hatred, and violence. We will uplift the inherent worth and autonomy of every human being.
+In our secular celebration, we recognize that the fight for liberty is an ongoing one. There are still people around the world who suffer under the yoke of tyranny, discrimination, and injustice. We recommit ourselves this night to upholding the values of freedom, equality, and human dignity for all people.
 
-May this celebration of freedom fuel our passion for tikkun olam - the repair of the world. May the lessons of the Exodus keep us forever bonded in solidarity with all who yearn to be free. With commitment and resolve, we say together: Next year in a more just, equitable and liberated world!
+Just as ancient Israelites had to persevere through hardship to reach the Promised Land, we too must persist in working towards a world of justice and compassion. The road will not be easy, but our determination and hope give us strength.
+
+Let us conclude this Seder by raising our final cup of wine in honor of liberty. To freedom - for ourselves, for all people, and for generations to come!

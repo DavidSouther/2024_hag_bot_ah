@@ -16,6 +16,6 @@ In this moment, we break the middle matzah into two pieces. One half is set asid
 
 By breaking this matzah, we pause to reflect on the brokenness in our world and in our lives. Too many still suffer from oppression, poverty, hunger, and injustice. Our world is broken, but it need not remain that way forever.
 
-Just as we break this matzah, we commit ourselves to working to repair the fractures in our society and our world. We will use our freedoms to fight for the freedoms of others. We will share our bread with those who have none. We will break down the barriers that divide us.
+We hide the afikoman to be discovered again at the end of the seder. This reminds us that our ancestors' perseverance allowed them to emerge from the narrows of bondage. Their courage brought them out of spiritual confinement into the open expanse of selfhood and dignity as a free people.
 
-The broken matzah reminds us that there is work still to be done to create a whole, just world for all people. On this night of remembering the journey from oppression to liberation, we rededicate ourselves to that sacred work of tikkun olam - repairing the world.
+In breaking this matzah, we connect spiritually with our ancestral longing for freedom. May this ritual inspire us to nurture that dissenting spark in our own lives. Wherever oppression and injustice exist, may we find the fortitude to resist and persist in our pursuit of human liberation.
